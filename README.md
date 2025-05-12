@@ -1,4 +1,4 @@
-# Exercise-6-Copy-and-Rename-Files
+# EXERCISE 5- COPY AND RENAME FILES
 ~~~
 Name : B. DHANUSH KUMAR
 Reg.No : 212224240034
